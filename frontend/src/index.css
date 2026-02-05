@@ -1,0 +1,14 @@
+:root {
+  font-family: "Inter", system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  /* Use a light background by default for better readability */
+  color: #1e293b;
+  background-color: #f1f5f9;
+}
+
+body {
+  margin: 0;
+  display: block; /* Changed from flex to block to allow auto-margins to work */
+  min-height: 100vh;
+}
