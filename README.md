@@ -48,11 +48,15 @@ Designed for speed, privacy, and clarity—generate high-quality application ema
 
 - Resume Upload Interface
 
-![image alt](https://github.com/Fiteh-21/resume-email-generator/blob/main/full-image-generator.jpg?raw=true)
+![image alt](https://github.com/Fiteh-21/resume-email-generator/blob/main/email-generator.jpg?raw=true)
   
 - Job Description Input
+
+![image alt](https://github.com/Fiteh-21/resume-email-generator/blob/main/job-position.jpg?raw=true)
+  
 - Generated Email Output
-- Copy-to-Clipboard Success State
+
+  ![image alt](https://github.com/Fiteh-21/resume-email-generator/blob/main/generator.jpg?raw=true)
 
 ---
 
